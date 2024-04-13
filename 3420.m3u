@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml" tvg-logo="https://live.fanmingming.com/tv/#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml.png",#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml
-http://epg.51zmt.top:8000/difang.xml
+
 #EXTINF:-1 tvg-name="#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视"" tvg-logo="https://live.fanmingming.com/tv/#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视".png",#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视"
 CCTV1
 #EXTINF:-1 tvg-name="http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS" tvg-logo="https://live.fanmingming.com/tv/http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS.png",http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
